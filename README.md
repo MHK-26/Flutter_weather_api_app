@@ -1,17 +1,27 @@
-# weather_app
 
-A new Flutter project.
+# Flutter weather api app
+
+
+## Introduction
+
+Welcome to the Awesome Weather App! This app provides real-time weather information using a third-party API. Stay informed about the current weather conditions and forecasts with a sleek and user-friendly interface.
+
+## Features
+
+- **Live Weather Updates**: Get up-to-date weather information for your location.
+- **Beautiful UI**: Enjoy a clean and visually appealing user interface.
+- **Responsive Design**: Works seamlessly on various devices.
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to set up and run the Awesome Weather App on your local machine:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_weather_api_app
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/awesome-weather-app.git
+   
+2. **Add you Api key :**
+   ```from
+   https://openweathermap.org)https://openweathermap.org
